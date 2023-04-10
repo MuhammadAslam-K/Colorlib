@@ -37,3 +37,7 @@ a:hover{
     font-size: 14px;
     font-weight: 400;
 }
+
+.image-align img{
+    width:99%;
+}
